@@ -1,0 +1,8 @@
+[13676:4628:0710/181725.529:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13676:4628:0710/181725.617:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19832:15140:0710/181729.689:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AF1E9C6A0B518C9B023E8E7254EA0D0F will be ignored
+[13060:19420:0710/181731.067:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F878ACC412888E8E36F524331633EF74 will be ignored
+[19248:15936:0710/182012.741:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-D5EAF235B4F087B9F44B1781C2B570A4 will be ignored
+[6224:13320:0710/182013.914:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6224:13320:0710/182014.996:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[13676:4628:0710/182733.258:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/Actor/Bolvanchik.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8Y/O6QEH0J2HBFXLJ4H1Y1HZB.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/Input/Actions/IA_Fire.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/Input/IMC_Default.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/Variant_Shooter/Blueprints/Pickups/Projectiles/Materials/M_Explosion.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/HS_WeaponPack_03/Materials/MasterMaterials/M_HS_WP03_Master_v5a.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset",
+				"C:/Users/Xtypie/Documents/Unreal Projects/Project1/Content/FirstPerson/Crosshair.uasset"
+			]
+		}
+	]
+}
